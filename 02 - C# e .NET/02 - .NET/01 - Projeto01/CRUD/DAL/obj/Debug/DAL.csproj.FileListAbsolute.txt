@@ -1,0 +1,18 @@
+C:\Users\casar\Desktop\Estudo\TI\C#\03 - ASP.NET COM ADO.NET\CRUD\DAL\bin\Debug\DAL.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\03 - ASP.NET COM ADO.NET\CRUD\DAL\bin\Debug\DAL.pdb
+C:\Users\casar\Desktop\Estudo\TI\C#\03 - ASP.NET COM ADO.NET\CRUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\casar\Desktop\Estudo\TI\C#\03 - ASP.NET COM ADO.NET\CRUD\DAL\obj\Debug\DAL.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\03 - ASP.NET COM ADO.NET\CRUD\DAL\obj\Debug\DAL.pdb
+C:\Users\casar\Desktop\Estudo\TI\C#\03 - ASP.NET COM ADO.NET\CRUD\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\casar\Desktop\Estudo\TI\C#\02 - ASP.NET COM ADO.NET\CRUD\DAL\bin\Debug\DAL.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\02 - ASP.NET COM ADO.NET\CRUD\DAL\bin\Debug\DAL.pdb
+C:\Users\casar\Desktop\Estudo\TI\C#\02 - ASP.NET COM ADO.NET\CRUD\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\casar\Desktop\Estudo\TI\C#\02 - ASP.NET COM ADO.NET\CRUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\casar\Desktop\Estudo\TI\C#\02 - ASP.NET COM ADO.NET\CRUD\DAL\obj\Debug\DAL.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\02 - ASP.NET COM ADO.NET\CRUD\DAL\obj\Debug\DAL.pdb
+C:\Users\casar\Desktop\Estudo\TI\C#\02 - .NET\CRUD\DAL\bin\Debug\DAL.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\02 - .NET\CRUD\DAL\bin\Debug\DAL.pdb
+C:\Users\casar\Desktop\Estudo\TI\C#\02 - .NET\CRUD\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\casar\Desktop\Estudo\TI\C#\02 - .NET\CRUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\casar\Desktop\Estudo\TI\C#\02 - .NET\CRUD\DAL\obj\Debug\DAL.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\02 - .NET\CRUD\DAL\obj\Debug\DAL.pdb

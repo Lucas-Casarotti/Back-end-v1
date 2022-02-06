@@ -1,0 +1,16 @@
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\04 - Calculando Consórcio\CalculandoConsorcio\CalculandoConsorcio\bin\Debug\net5.0\CalculandoConsorcio.exe
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\04 - Calculando Consórcio\CalculandoConsorcio\CalculandoConsorcio\bin\Debug\net5.0\CalculandoConsorcio.deps.json
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\04 - Calculando Consórcio\CalculandoConsorcio\CalculandoConsorcio\bin\Debug\net5.0\CalculandoConsorcio.runtimeconfig.json
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\04 - Calculando Consórcio\CalculandoConsorcio\CalculandoConsorcio\bin\Debug\net5.0\CalculandoConsorcio.runtimeconfig.dev.json
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\04 - Calculando Consórcio\CalculandoConsorcio\CalculandoConsorcio\bin\Debug\net5.0\CalculandoConsorcio.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\04 - Calculando Consórcio\CalculandoConsorcio\CalculandoConsorcio\bin\Debug\net5.0\ref\CalculandoConsorcio.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\04 - Calculando Consórcio\CalculandoConsorcio\CalculandoConsorcio\bin\Debug\net5.0\CalculandoConsorcio.pdb
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\04 - Calculando Consórcio\CalculandoConsorcio\CalculandoConsorcio\obj\Debug\net5.0\CalculandoConsorcio.csproj.AssemblyReference.cache
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\04 - Calculando Consórcio\CalculandoConsorcio\CalculandoConsorcio\obj\Debug\net5.0\CalculandoConsorcio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\04 - Calculando Consórcio\CalculandoConsorcio\CalculandoConsorcio\obj\Debug\net5.0\CalculandoConsorcio.AssemblyInfoInputs.cache
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\04 - Calculando Consórcio\CalculandoConsorcio\CalculandoConsorcio\obj\Debug\net5.0\CalculandoConsorcio.AssemblyInfo.cs
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\04 - Calculando Consórcio\CalculandoConsorcio\CalculandoConsorcio\obj\Debug\net5.0\CalculandoConsorcio.csproj.CoreCompileInputs.cache
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\04 - Calculando Consórcio\CalculandoConsorcio\CalculandoConsorcio\obj\Debug\net5.0\CalculandoConsorcio.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\04 - Calculando Consórcio\CalculandoConsorcio\CalculandoConsorcio\obj\Debug\net5.0\ref\CalculandoConsorcio.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\04 - Calculando Consórcio\CalculandoConsorcio\CalculandoConsorcio\obj\Debug\net5.0\CalculandoConsorcio.pdb
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\04 - Calculando Consórcio\CalculandoConsorcio\CalculandoConsorcio\obj\Debug\net5.0\CalculandoConsorcio.genruntimeconfig.cache

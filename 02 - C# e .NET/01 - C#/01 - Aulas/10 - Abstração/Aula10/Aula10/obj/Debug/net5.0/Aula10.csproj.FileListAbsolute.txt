@@ -1,0 +1,15 @@
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\01 - Aulas\10 - Abstração\Aula10\Aula10\bin\Debug\net5.0\Aula10.exe
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\01 - Aulas\10 - Abstração\Aula10\Aula10\bin\Debug\net5.0\Aula10.deps.json
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\01 - Aulas\10 - Abstração\Aula10\Aula10\bin\Debug\net5.0\Aula10.runtimeconfig.json
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\01 - Aulas\10 - Abstração\Aula10\Aula10\bin\Debug\net5.0\Aula10.runtimeconfig.dev.json
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\01 - Aulas\10 - Abstração\Aula10\Aula10\bin\Debug\net5.0\Aula10.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\01 - Aulas\10 - Abstração\Aula10\Aula10\bin\Debug\net5.0\ref\Aula10.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\01 - Aulas\10 - Abstração\Aula10\Aula10\bin\Debug\net5.0\Aula10.pdb
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\01 - Aulas\10 - Abstração\Aula10\Aula10\obj\Debug\net5.0\Aula10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\01 - Aulas\10 - Abstração\Aula10\Aula10\obj\Debug\net5.0\Aula10.AssemblyInfoInputs.cache
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\01 - Aulas\10 - Abstração\Aula10\Aula10\obj\Debug\net5.0\Aula10.AssemblyInfo.cs
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\01 - Aulas\10 - Abstração\Aula10\Aula10\obj\Debug\net5.0\Aula10.csproj.CoreCompileInputs.cache
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\01 - Aulas\10 - Abstração\Aula10\Aula10\obj\Debug\net5.0\Aula10.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\01 - Aulas\10 - Abstração\Aula10\Aula10\obj\Debug\net5.0\ref\Aula10.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\01 - Aulas\10 - Abstração\Aula10\Aula10\obj\Debug\net5.0\Aula10.pdb
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\01 - Aulas\10 - Abstração\Aula10\Aula10\obj\Debug\net5.0\Aula10.genruntimeconfig.cache

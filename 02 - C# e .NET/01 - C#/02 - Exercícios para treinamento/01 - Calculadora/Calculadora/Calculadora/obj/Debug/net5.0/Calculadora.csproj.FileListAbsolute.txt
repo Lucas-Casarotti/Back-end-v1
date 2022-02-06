@@ -1,0 +1,32 @@
+C:\Users\TERMINAL GAS\Desktop\lucas\C#\01 - Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.exe
+C:\Users\TERMINAL GAS\Desktop\lucas\C#\01 - Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Users\TERMINAL GAS\Desktop\lucas\C#\01 - Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+C:\Users\TERMINAL GAS\Desktop\lucas\C#\01 - Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+C:\Users\TERMINAL GAS\Desktop\lucas\C#\01 - Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Users\TERMINAL GAS\Desktop\lucas\C#\01 - Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\ref\Calculadora.dll
+C:\Users\TERMINAL GAS\Desktop\lucas\C#\01 - Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Users\TERMINAL GAS\Desktop\lucas\C#\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\TERMINAL GAS\Desktop\lucas\C#\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TERMINAL GAS\Desktop\lucas\C#\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\TERMINAL GAS\Desktop\lucas\C#\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\TERMINAL GAS\Desktop\lucas\C#\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\TERMINAL GAS\Desktop\lucas\C#\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Users\TERMINAL GAS\Desktop\lucas\C#\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
+C:\Users\TERMINAL GAS\Desktop\lucas\C#\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+C:\Users\TERMINAL GAS\Desktop\lucas\C#\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\01 - Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.exe
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\01 - Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\01 - Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\01 - Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\01 - Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\01 - Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\ref\Calculadora.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\01 - Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+C:\Users\casar\Desktop\Estudo\TI\C#\01 - C#\02 - Exercícios para treinamento\01 - Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
