@@ -1,0 +1,9 @@
+Utilizando debugging
+
+1 - F9 marcar o breakpoint, ponto inicial da onde vai começar o debugging
+
+2 - F5 debugging o programa inteiro
+
+3 - F10 debugging linha por linha
+
+4 - F11 entra no metodo

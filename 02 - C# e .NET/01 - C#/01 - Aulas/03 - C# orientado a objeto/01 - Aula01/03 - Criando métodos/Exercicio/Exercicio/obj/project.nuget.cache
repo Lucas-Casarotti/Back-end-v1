@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qmlUt/eISWPkh+kiTZw6E77cADkspQVOS5+zAk0O3X/AM2Pk5NFSMxKQnB38YDuT2s7YAjOC5nwBwqLnf4UDag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\casar\\Desktop\\Estudo C#\\01 - C#\\03 - C# orientado a objeto\\03 - Criando um método para obtermos os benefícios de reaproveitamento e delegação\\Exercicio\\Exercicio\\Exercicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\casar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

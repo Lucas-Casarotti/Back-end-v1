@@ -1,0 +1,26 @@
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\04 - Exercícios de fixação\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.exe
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\04 - Exercícios de fixação\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.deps.json
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\04 - Exercícios de fixação\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.runtimeconfig.json
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\04 - Exercícios de fixação\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.runtimeconfig.dev.json
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\04 - Exercícios de fixação\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.dll
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\04 - Exercícios de fixação\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.pdb
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\04 - Exercícios de fixação\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.csproj.AssemblyReference.cache
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\04 - Exercícios de fixação\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.AssemblyInfoInputs.cache
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\04 - Exercícios de fixação\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.AssemblyInfo.cs
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\04 - Exercícios de fixação\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\04 - Exercícios de fixação\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.dll
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\04 - Exercícios de fixação\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.pdb
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\04 - Exercícios de fixação\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.genruntimeconfig.cache
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\01 - Classes, atributos, métodos, membros estáticos\04 - Exercícios propostos\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.exe
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\01 - Classes, atributos, métodos, membros estáticos\04 - Exercícios propostos\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.deps.json
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\01 - Classes, atributos, métodos, membros estáticos\04 - Exercícios propostos\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.runtimeconfig.json
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\01 - Classes, atributos, métodos, membros estáticos\04 - Exercícios propostos\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.runtimeconfig.dev.json
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\01 - Classes, atributos, métodos, membros estáticos\04 - Exercícios propostos\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.dll
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\01 - Classes, atributos, métodos, membros estáticos\04 - Exercícios propostos\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.pdb
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\01 - Classes, atributos, métodos, membros estáticos\04 - Exercícios propostos\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.csproj.AssemblyReference.cache
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\01 - Classes, atributos, métodos, membros estáticos\04 - Exercícios propostos\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.AssemblyInfoInputs.cache
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\01 - Classes, atributos, métodos, membros estáticos\04 - Exercícios propostos\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.AssemblyInfo.cs
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\01 - Classes, atributos, métodos, membros estáticos\04 - Exercícios propostos\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\01 - Classes, atributos, métodos, membros estáticos\04 - Exercícios propostos\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.dll
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\01 - Classes, atributos, métodos, membros estáticos\04 - Exercícios propostos\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.pdb
+C:\Users\casar\Desktop\Estudo C#\01 - C#\03 - C# orientado a objeto\01 - Classes, atributos, métodos, membros estáticos\04 - Exercícios propostos\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.genruntimeconfig.cache

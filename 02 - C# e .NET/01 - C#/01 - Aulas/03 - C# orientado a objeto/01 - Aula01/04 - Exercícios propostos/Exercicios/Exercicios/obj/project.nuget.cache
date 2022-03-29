@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ow3ISA6l0wAmh0chCprroULZ5wo9xfl61SS/xCSP+Z7nvF+xbUyNHklA74dVnayclSjXUaEOXbxt8p562HxKUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\casar\\Desktop\\Estudo C#\\01 - C#\\03 - C# orientado a objeto\\01 - Classes, atributos, métodos, membros estáticos\\04 - Exercícios propostos\\Exercicios\\Exercicios\\Exercicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\casar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

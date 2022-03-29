@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HfumFR3cX8Sgg/0R70YnG1bxAqz7POpj0Lu6u4sRFJ7o4q31NAk6aN/7sd3P0ebhWtUJVYV9rsBPcnmT0MZFgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\casar\\Desktop\\Estudo C#\\01 - C#\\02 - Recapitulação de lógica de programação com C#\\01 - Exercícios\\01 - Estrutura sequencial\\ExerciciosResolvidos\\ExerciciosResolvidos\\ExerciciosResolvidos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\casar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
