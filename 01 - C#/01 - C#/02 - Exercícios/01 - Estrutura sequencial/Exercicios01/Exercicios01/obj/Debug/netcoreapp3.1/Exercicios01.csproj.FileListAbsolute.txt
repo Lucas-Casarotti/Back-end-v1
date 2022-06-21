@@ -1,0 +1,14 @@
+E:\CURSO .NET\01 - Estudo\01 - C#\02 - Exercícios\01 - Estrutura sequencial\Exercicios01\Exercicios01\obj\Debug\netcoreapp3.1\Exercicios01.csproj.AssemblyReference.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\02 - Exercícios\01 - Estrutura sequencial\Exercicios01\Exercicios01\obj\Debug\netcoreapp3.1\Exercicios01.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO .NET\01 - Estudo\01 - C#\02 - Exercícios\01 - Estrutura sequencial\Exercicios01\Exercicios01\obj\Debug\netcoreapp3.1\Exercicios01.AssemblyInfoInputs.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\02 - Exercícios\01 - Estrutura sequencial\Exercicios01\Exercicios01\obj\Debug\netcoreapp3.1\Exercicios01.AssemblyInfo.cs
+E:\CURSO .NET\01 - Estudo\01 - C#\02 - Exercícios\01 - Estrutura sequencial\Exercicios01\Exercicios01\obj\Debug\netcoreapp3.1\Exercicios01.csproj.CoreCompileInputs.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\02 - Exercícios\01 - Estrutura sequencial\Exercicios01\Exercicios01\bin\Debug\netcoreapp3.1\Exercicios01.exe
+E:\CURSO .NET\01 - Estudo\01 - C#\02 - Exercícios\01 - Estrutura sequencial\Exercicios01\Exercicios01\bin\Debug\netcoreapp3.1\Exercicios01.deps.json
+E:\CURSO .NET\01 - Estudo\01 - C#\02 - Exercícios\01 - Estrutura sequencial\Exercicios01\Exercicios01\bin\Debug\netcoreapp3.1\Exercicios01.runtimeconfig.json
+E:\CURSO .NET\01 - Estudo\01 - C#\02 - Exercícios\01 - Estrutura sequencial\Exercicios01\Exercicios01\bin\Debug\netcoreapp3.1\Exercicios01.runtimeconfig.dev.json
+E:\CURSO .NET\01 - Estudo\01 - C#\02 - Exercícios\01 - Estrutura sequencial\Exercicios01\Exercicios01\bin\Debug\netcoreapp3.1\Exercicios01.dll
+E:\CURSO .NET\01 - Estudo\01 - C#\02 - Exercícios\01 - Estrutura sequencial\Exercicios01\Exercicios01\bin\Debug\netcoreapp3.1\Exercicios01.pdb
+E:\CURSO .NET\01 - Estudo\01 - C#\02 - Exercícios\01 - Estrutura sequencial\Exercicios01\Exercicios01\obj\Debug\netcoreapp3.1\Exercicios01.dll
+E:\CURSO .NET\01 - Estudo\01 - C#\02 - Exercícios\01 - Estrutura sequencial\Exercicios01\Exercicios01\obj\Debug\netcoreapp3.1\Exercicios01.pdb
+E:\CURSO .NET\01 - Estudo\01 - C#\02 - Exercícios\01 - Estrutura sequencial\Exercicios01\Exercicios01\obj\Debug\netcoreapp3.1\Exercicios01.genruntimeconfig.cache

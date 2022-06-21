@@ -1,0 +1,14 @@
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\15 - Switch Case\Aula15\Aula15\bin\Debug\netcoreapp3.1\Aula15.exe
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\15 - Switch Case\Aula15\Aula15\bin\Debug\netcoreapp3.1\Aula15.deps.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\15 - Switch Case\Aula15\Aula15\bin\Debug\netcoreapp3.1\Aula15.runtimeconfig.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\15 - Switch Case\Aula15\Aula15\bin\Debug\netcoreapp3.1\Aula15.runtimeconfig.dev.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\15 - Switch Case\Aula15\Aula15\bin\Debug\netcoreapp3.1\Aula15.dll
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\15 - Switch Case\Aula15\Aula15\bin\Debug\netcoreapp3.1\Aula15.pdb
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\15 - Switch Case\Aula15\Aula15\obj\Debug\netcoreapp3.1\Aula15.csproj.AssemblyReference.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\15 - Switch Case\Aula15\Aula15\obj\Debug\netcoreapp3.1\Aula15.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\15 - Switch Case\Aula15\Aula15\obj\Debug\netcoreapp3.1\Aula15.AssemblyInfoInputs.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\15 - Switch Case\Aula15\Aula15\obj\Debug\netcoreapp3.1\Aula15.AssemblyInfo.cs
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\15 - Switch Case\Aula15\Aula15\obj\Debug\netcoreapp3.1\Aula15.csproj.CoreCompileInputs.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\15 - Switch Case\Aula15\Aula15\obj\Debug\netcoreapp3.1\Aula15.dll
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\15 - Switch Case\Aula15\Aula15\obj\Debug\netcoreapp3.1\Aula15.pdb
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\15 - Switch Case\Aula15\Aula15\obj\Debug\netcoreapp3.1\Aula15.genruntimeconfig.cache

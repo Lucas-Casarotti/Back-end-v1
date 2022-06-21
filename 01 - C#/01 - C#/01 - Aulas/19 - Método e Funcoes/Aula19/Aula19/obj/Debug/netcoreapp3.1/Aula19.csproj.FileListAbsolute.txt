@@ -1,0 +1,14 @@
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\19 - Método e Funcoes\Aula19\Aula19\bin\Debug\netcoreapp3.1\Aula19.exe
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\19 - Método e Funcoes\Aula19\Aula19\bin\Debug\netcoreapp3.1\Aula19.deps.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\19 - Método e Funcoes\Aula19\Aula19\bin\Debug\netcoreapp3.1\Aula19.runtimeconfig.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\19 - Método e Funcoes\Aula19\Aula19\bin\Debug\netcoreapp3.1\Aula19.runtimeconfig.dev.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\19 - Método e Funcoes\Aula19\Aula19\bin\Debug\netcoreapp3.1\Aula19.dll
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\19 - Método e Funcoes\Aula19\Aula19\bin\Debug\netcoreapp3.1\Aula19.pdb
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\19 - Método e Funcoes\Aula19\Aula19\obj\Debug\netcoreapp3.1\Aula19.csproj.AssemblyReference.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\19 - Método e Funcoes\Aula19\Aula19\obj\Debug\netcoreapp3.1\Aula19.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\19 - Método e Funcoes\Aula19\Aula19\obj\Debug\netcoreapp3.1\Aula19.AssemblyInfoInputs.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\19 - Método e Funcoes\Aula19\Aula19\obj\Debug\netcoreapp3.1\Aula19.AssemblyInfo.cs
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\19 - Método e Funcoes\Aula19\Aula19\obj\Debug\netcoreapp3.1\Aula19.csproj.CoreCompileInputs.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\19 - Método e Funcoes\Aula19\Aula19\obj\Debug\netcoreapp3.1\Aula19.dll
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\19 - Método e Funcoes\Aula19\Aula19\obj\Debug\netcoreapp3.1\Aula19.pdb
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\19 - Método e Funcoes\Aula19\Aula19\obj\Debug\netcoreapp3.1\Aula19.genruntimeconfig.cache

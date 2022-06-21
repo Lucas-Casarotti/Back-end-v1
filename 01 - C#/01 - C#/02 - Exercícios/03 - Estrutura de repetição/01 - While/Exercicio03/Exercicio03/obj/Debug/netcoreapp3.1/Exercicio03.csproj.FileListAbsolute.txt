@@ -1,0 +1,14 @@
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\03 - Estrutura de repetição\01 - While\Exercicio03\Exercicio03\bin\Debug\netcoreapp3.1\Exercicio03.exe
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\03 - Estrutura de repetição\01 - While\Exercicio03\Exercicio03\bin\Debug\netcoreapp3.1\Exercicio03.deps.json
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\03 - Estrutura de repetição\01 - While\Exercicio03\Exercicio03\bin\Debug\netcoreapp3.1\Exercicio03.runtimeconfig.json
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\03 - Estrutura de repetição\01 - While\Exercicio03\Exercicio03\bin\Debug\netcoreapp3.1\Exercicio03.runtimeconfig.dev.json
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\03 - Estrutura de repetição\01 - While\Exercicio03\Exercicio03\bin\Debug\netcoreapp3.1\Exercicio03.dll
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\03 - Estrutura de repetição\01 - While\Exercicio03\Exercicio03\bin\Debug\netcoreapp3.1\Exercicio03.pdb
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\03 - Estrutura de repetição\01 - While\Exercicio03\Exercicio03\obj\Debug\netcoreapp3.1\Exercicio03.csproj.AssemblyReference.cache
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\03 - Estrutura de repetição\01 - While\Exercicio03\Exercicio03\obj\Debug\netcoreapp3.1\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\03 - Estrutura de repetição\01 - While\Exercicio03\Exercicio03\obj\Debug\netcoreapp3.1\Exercicio03.AssemblyInfoInputs.cache
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\03 - Estrutura de repetição\01 - While\Exercicio03\Exercicio03\obj\Debug\netcoreapp3.1\Exercicio03.AssemblyInfo.cs
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\03 - Estrutura de repetição\01 - While\Exercicio03\Exercicio03\obj\Debug\netcoreapp3.1\Exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\03 - Estrutura de repetição\01 - While\Exercicio03\Exercicio03\obj\Debug\netcoreapp3.1\Exercicio03.dll
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\03 - Estrutura de repetição\01 - While\Exercicio03\Exercicio03\obj\Debug\netcoreapp3.1\Exercicio03.pdb
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\03 - Estrutura de repetição\01 - While\Exercicio03\Exercicio03\obj\Debug\netcoreapp3.1\Exercicio03.genruntimeconfig.cache

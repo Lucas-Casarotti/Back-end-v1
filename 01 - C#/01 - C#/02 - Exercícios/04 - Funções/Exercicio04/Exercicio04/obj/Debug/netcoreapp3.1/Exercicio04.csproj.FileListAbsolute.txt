@@ -1,0 +1,14 @@
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\04 - Funções\Exercicio04\Exercicio04\obj\Debug\netcoreapp3.1\Exercicio04.csproj.AssemblyReference.cache
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\04 - Funções\Exercicio04\Exercicio04\obj\Debug\netcoreapp3.1\Exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\04 - Funções\Exercicio04\Exercicio04\obj\Debug\netcoreapp3.1\Exercicio04.AssemblyInfoInputs.cache
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\04 - Funções\Exercicio04\Exercicio04\obj\Debug\netcoreapp3.1\Exercicio04.AssemblyInfo.cs
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\04 - Funções\Exercicio04\Exercicio04\obj\Debug\netcoreapp3.1\Exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\04 - Funções\Exercicio04\Exercicio04\bin\Debug\netcoreapp3.1\Exercicio04.exe
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\04 - Funções\Exercicio04\Exercicio04\bin\Debug\netcoreapp3.1\Exercicio04.deps.json
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\04 - Funções\Exercicio04\Exercicio04\bin\Debug\netcoreapp3.1\Exercicio04.runtimeconfig.json
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\04 - Funções\Exercicio04\Exercicio04\bin\Debug\netcoreapp3.1\Exercicio04.runtimeconfig.dev.json
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\04 - Funções\Exercicio04\Exercicio04\bin\Debug\netcoreapp3.1\Exercicio04.dll
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\04 - Funções\Exercicio04\Exercicio04\bin\Debug\netcoreapp3.1\Exercicio04.pdb
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\04 - Funções\Exercicio04\Exercicio04\obj\Debug\netcoreapp3.1\Exercicio04.dll
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\04 - Funções\Exercicio04\Exercicio04\obj\Debug\netcoreapp3.1\Exercicio04.pdb
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\02 - Exercícios\04 - Funções\Exercicio04\Exercicio04\obj\Debug\netcoreapp3.1\Exercicio04.genruntimeconfig.cache

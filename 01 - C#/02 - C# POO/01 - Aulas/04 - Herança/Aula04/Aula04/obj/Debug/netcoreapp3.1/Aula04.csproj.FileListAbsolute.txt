@@ -1,0 +1,14 @@
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\04 - Herança\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.exe
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\04 - Herança\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.deps.json
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\04 - Herança\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.runtimeconfig.json
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\04 - Herança\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.runtimeconfig.dev.json
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\04 - Herança\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.dll
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\04 - Herança\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.pdb
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\04 - Herança\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.csproj.AssemblyReference.cache
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\04 - Herança\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\04 - Herança\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.AssemblyInfoInputs.cache
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\04 - Herança\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.AssemblyInfo.cs
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\04 - Herança\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.csproj.CoreCompileInputs.cache
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\04 - Herança\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.dll
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\04 - Herança\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.pdb
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\04 - Herança\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.genruntimeconfig.cache

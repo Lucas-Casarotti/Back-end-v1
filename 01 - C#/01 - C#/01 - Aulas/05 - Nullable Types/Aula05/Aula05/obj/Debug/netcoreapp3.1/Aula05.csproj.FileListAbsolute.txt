@@ -1,0 +1,14 @@
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\05 - Nullable Types\Aula05\Aula05\bin\Debug\netcoreapp3.1\Aula05.exe
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\05 - Nullable Types\Aula05\Aula05\bin\Debug\netcoreapp3.1\Aula05.deps.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\05 - Nullable Types\Aula05\Aula05\bin\Debug\netcoreapp3.1\Aula05.runtimeconfig.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\05 - Nullable Types\Aula05\Aula05\bin\Debug\netcoreapp3.1\Aula05.runtimeconfig.dev.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\05 - Nullable Types\Aula05\Aula05\bin\Debug\netcoreapp3.1\Aula05.dll
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\05 - Nullable Types\Aula05\Aula05\bin\Debug\netcoreapp3.1\Aula05.pdb
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\05 - Nullable Types\Aula05\Aula05\obj\Debug\netcoreapp3.1\Aula05.csproj.AssemblyReference.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\05 - Nullable Types\Aula05\Aula05\obj\Debug\netcoreapp3.1\Aula05.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\05 - Nullable Types\Aula05\Aula05\obj\Debug\netcoreapp3.1\Aula05.AssemblyInfoInputs.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\05 - Nullable Types\Aula05\Aula05\obj\Debug\netcoreapp3.1\Aula05.AssemblyInfo.cs
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\05 - Nullable Types\Aula05\Aula05\obj\Debug\netcoreapp3.1\Aula05.csproj.CoreCompileInputs.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\05 - Nullable Types\Aula05\Aula05\obj\Debug\netcoreapp3.1\Aula05.dll
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\05 - Nullable Types\Aula05\Aula05\obj\Debug\netcoreapp3.1\Aula05.pdb
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\05 - Nullable Types\Aula05\Aula05\obj\Debug\netcoreapp3.1\Aula05.genruntimeconfig.cache

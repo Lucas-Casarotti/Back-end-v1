@@ -1,0 +1,14 @@
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\18 - Do While\Aula18\Aula18\bin\Debug\netcoreapp3.1\Aula18.exe
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\18 - Do While\Aula18\Aula18\bin\Debug\netcoreapp3.1\Aula18.deps.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\18 - Do While\Aula18\Aula18\bin\Debug\netcoreapp3.1\Aula18.runtimeconfig.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\18 - Do While\Aula18\Aula18\bin\Debug\netcoreapp3.1\Aula18.runtimeconfig.dev.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\18 - Do While\Aula18\Aula18\bin\Debug\netcoreapp3.1\Aula18.dll
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\18 - Do While\Aula18\Aula18\bin\Debug\netcoreapp3.1\Aula18.pdb
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\18 - Do While\Aula18\Aula18\obj\Debug\netcoreapp3.1\Aula18.csproj.AssemblyReference.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\18 - Do While\Aula18\Aula18\obj\Debug\netcoreapp3.1\Aula18.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\18 - Do While\Aula18\Aula18\obj\Debug\netcoreapp3.1\Aula18.AssemblyInfoInputs.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\18 - Do While\Aula18\Aula18\obj\Debug\netcoreapp3.1\Aula18.AssemblyInfo.cs
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\18 - Do While\Aula18\Aula18\obj\Debug\netcoreapp3.1\Aula18.csproj.CoreCompileInputs.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\18 - Do While\Aula18\Aula18\obj\Debug\netcoreapp3.1\Aula18.dll
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\18 - Do While\Aula18\Aula18\obj\Debug\netcoreapp3.1\Aula18.pdb
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\18 - Do While\Aula18\Aula18\obj\Debug\netcoreapp3.1\Aula18.genruntimeconfig.cache

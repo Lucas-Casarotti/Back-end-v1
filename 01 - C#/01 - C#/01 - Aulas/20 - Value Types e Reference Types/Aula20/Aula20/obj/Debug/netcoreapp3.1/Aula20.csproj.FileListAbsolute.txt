@@ -1,0 +1,14 @@
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\20 - Value Types e Reference Types\Aula20\Aula20\bin\Debug\netcoreapp3.1\Aula20.exe
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\20 - Value Types e Reference Types\Aula20\Aula20\bin\Debug\netcoreapp3.1\Aula20.deps.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\20 - Value Types e Reference Types\Aula20\Aula20\bin\Debug\netcoreapp3.1\Aula20.runtimeconfig.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\20 - Value Types e Reference Types\Aula20\Aula20\bin\Debug\netcoreapp3.1\Aula20.runtimeconfig.dev.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\20 - Value Types e Reference Types\Aula20\Aula20\bin\Debug\netcoreapp3.1\Aula20.dll
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\20 - Value Types e Reference Types\Aula20\Aula20\bin\Debug\netcoreapp3.1\Aula20.pdb
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\20 - Value Types e Reference Types\Aula20\Aula20\obj\Debug\netcoreapp3.1\Aula20.csproj.AssemblyReference.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\20 - Value Types e Reference Types\Aula20\Aula20\obj\Debug\netcoreapp3.1\Aula20.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\20 - Value Types e Reference Types\Aula20\Aula20\obj\Debug\netcoreapp3.1\Aula20.AssemblyInfoInputs.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\20 - Value Types e Reference Types\Aula20\Aula20\obj\Debug\netcoreapp3.1\Aula20.AssemblyInfo.cs
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\20 - Value Types e Reference Types\Aula20\Aula20\obj\Debug\netcoreapp3.1\Aula20.csproj.CoreCompileInputs.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\20 - Value Types e Reference Types\Aula20\Aula20\obj\Debug\netcoreapp3.1\Aula20.dll
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\20 - Value Types e Reference Types\Aula20\Aula20\obj\Debug\netcoreapp3.1\Aula20.pdb
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\20 - Value Types e Reference Types\Aula20\Aula20\obj\Debug\netcoreapp3.1\Aula20.genruntimeconfig.cache

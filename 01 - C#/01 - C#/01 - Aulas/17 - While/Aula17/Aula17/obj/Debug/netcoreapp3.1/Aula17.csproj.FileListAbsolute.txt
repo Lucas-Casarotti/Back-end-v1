@@ -1,0 +1,14 @@
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\17 - While\Aula17\Aula17\bin\Debug\netcoreapp3.1\Aula17.exe
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\17 - While\Aula17\Aula17\bin\Debug\netcoreapp3.1\Aula17.deps.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\17 - While\Aula17\Aula17\bin\Debug\netcoreapp3.1\Aula17.runtimeconfig.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\17 - While\Aula17\Aula17\bin\Debug\netcoreapp3.1\Aula17.runtimeconfig.dev.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\17 - While\Aula17\Aula17\bin\Debug\netcoreapp3.1\Aula17.dll
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\17 - While\Aula17\Aula17\bin\Debug\netcoreapp3.1\Aula17.pdb
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\17 - While\Aula17\Aula17\obj\Debug\netcoreapp3.1\Aula17.csproj.AssemblyReference.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\17 - While\Aula17\Aula17\obj\Debug\netcoreapp3.1\Aula17.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\17 - While\Aula17\Aula17\obj\Debug\netcoreapp3.1\Aula17.AssemblyInfoInputs.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\17 - While\Aula17\Aula17\obj\Debug\netcoreapp3.1\Aula17.AssemblyInfo.cs
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\17 - While\Aula17\Aula17\obj\Debug\netcoreapp3.1\Aula17.csproj.CoreCompileInputs.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\17 - While\Aula17\Aula17\obj\Debug\netcoreapp3.1\Aula17.dll
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\17 - While\Aula17\Aula17\obj\Debug\netcoreapp3.1\Aula17.pdb
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\17 - While\Aula17\Aula17\obj\Debug\netcoreapp3.1\Aula17.genruntimeconfig.cache
