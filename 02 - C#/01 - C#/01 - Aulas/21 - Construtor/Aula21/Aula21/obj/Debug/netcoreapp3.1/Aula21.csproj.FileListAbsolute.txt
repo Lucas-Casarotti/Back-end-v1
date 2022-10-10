@@ -1,0 +1,14 @@
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\01 - C#\01 - Aulas\21 - Construtor\Aula21\Aula21\bin\Debug\netcoreapp3.1\Aula21.exe
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\01 - C#\01 - Aulas\21 - Construtor\Aula21\Aula21\bin\Debug\netcoreapp3.1\Aula21.deps.json
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\01 - C#\01 - Aulas\21 - Construtor\Aula21\Aula21\bin\Debug\netcoreapp3.1\Aula21.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\01 - C#\01 - Aulas\21 - Construtor\Aula21\Aula21\bin\Debug\netcoreapp3.1\Aula21.runtimeconfig.dev.json
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\01 - C#\01 - Aulas\21 - Construtor\Aula21\Aula21\bin\Debug\netcoreapp3.1\Aula21.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\01 - C#\01 - Aulas\21 - Construtor\Aula21\Aula21\bin\Debug\netcoreapp3.1\Aula21.pdb
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\01 - C#\01 - Aulas\21 - Construtor\Aula21\Aula21\obj\Debug\netcoreapp3.1\Aula21.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\01 - C#\01 - Aulas\21 - Construtor\Aula21\Aula21\obj\Debug\netcoreapp3.1\Aula21.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\01 - C#\01 - Aulas\21 - Construtor\Aula21\Aula21\obj\Debug\netcoreapp3.1\Aula21.AssemblyInfoInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\01 - C#\01 - Aulas\21 - Construtor\Aula21\Aula21\obj\Debug\netcoreapp3.1\Aula21.AssemblyInfo.cs
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\01 - C#\01 - Aulas\21 - Construtor\Aula21\Aula21\obj\Debug\netcoreapp3.1\Aula21.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\01 - C#\01 - Aulas\21 - Construtor\Aula21\Aula21\obj\Debug\netcoreapp3.1\Aula21.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\01 - C#\01 - Aulas\21 - Construtor\Aula21\Aula21\obj\Debug\netcoreapp3.1\Aula21.pdb
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\01 - C#\01 - Aulas\21 - Construtor\Aula21\Aula21\obj\Debug\netcoreapp3.1\Aula21.genruntimeconfig.cache

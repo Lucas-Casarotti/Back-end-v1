@@ -1,0 +1,14 @@
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\10 - Classes estaticas\Aula10\Aula10\bin\Debug\netcoreapp3.1\Aula10.exe
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\10 - Classes estaticas\Aula10\Aula10\bin\Debug\netcoreapp3.1\Aula10.deps.json
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\10 - Classes estaticas\Aula10\Aula10\bin\Debug\netcoreapp3.1\Aula10.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\10 - Classes estaticas\Aula10\Aula10\bin\Debug\netcoreapp3.1\Aula10.runtimeconfig.dev.json
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\10 - Classes estaticas\Aula10\Aula10\bin\Debug\netcoreapp3.1\Aula10.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\10 - Classes estaticas\Aula10\Aula10\bin\Debug\netcoreapp3.1\Aula10.pdb
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\10 - Classes estaticas\Aula10\Aula10\obj\Debug\netcoreapp3.1\Aula10.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\10 - Classes estaticas\Aula10\Aula10\obj\Debug\netcoreapp3.1\Aula10.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\10 - Classes estaticas\Aula10\Aula10\obj\Debug\netcoreapp3.1\Aula10.AssemblyInfoInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\10 - Classes estaticas\Aula10\Aula10\obj\Debug\netcoreapp3.1\Aula10.AssemblyInfo.cs
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\10 - Classes estaticas\Aula10\Aula10\obj\Debug\netcoreapp3.1\Aula10.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\10 - Classes estaticas\Aula10\Aula10\obj\Debug\netcoreapp3.1\Aula10.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\10 - Classes estaticas\Aula10\Aula10\obj\Debug\netcoreapp3.1\Aula10.pdb
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\10 - Classes estaticas\Aula10\Aula10\obj\Debug\netcoreapp3.1\Aula10.genruntimeconfig.cache

@@ -2361,11 +2361,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - C#\\02 - C#\\03 - C# e Dapper\\01 - Acesso a dados com ADO.NET\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - C#\\02 - C#\\03 - Acesso à dados com C#\\01 - Acesso a dados com ADO.NET\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - C#\\02 - C#\\03 - C# e Dapper\\01 - Acesso a dados com ADO.NET\\DataAccess\\DataAccess.csproj",
+      "projectPath": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - C#\\02 - C#\\03 - Acesso à dados com C#\\01 - Acesso a dados com ADO.NET\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - C#\\02 - C#\\03 - C# e Dapper\\01 - Acesso a dados com ADO.NET\\DataAccess\\obj\\",
+      "outputPath": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - C#\\02 - C#\\03 - Acesso à dados com C#\\01 - Acesso a dados com ADO.NET\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

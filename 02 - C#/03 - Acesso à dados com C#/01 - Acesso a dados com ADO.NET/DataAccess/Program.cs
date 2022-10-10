@@ -19,8 +19,7 @@ namespace DataAccess
                     command.Connection  = connection;
                     command.CommandType = System.Data.CommandType.Text;
                     command.CommandText = "SELECT NM_Pessoa FROM Pessoas";
-
-
+                    
                     var reader = command.ExecuteReader();
                     while(reader.Read())
                     {
@@ -28,7 +27,6 @@ namespace DataAccess
                     }
                 }
             }
-           
         }
     }
 }

@@ -1,0 +1,14 @@
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\04 - Propriedades\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.exe
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\04 - Propriedades\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.deps.json
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\04 - Propriedades\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\04 - Propriedades\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.runtimeconfig.dev.json
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\04 - Propriedades\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\04 - Propriedades\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.pdb
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\04 - Propriedades\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\04 - Propriedades\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\04 - Propriedades\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.AssemblyInfoInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\04 - Propriedades\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.AssemblyInfo.cs
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\04 - Propriedades\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\04 - Propriedades\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.dll
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\04 - Propriedades\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.pdb
+E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\04 - Propriedades\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.genruntimeconfig.cache
