@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - C#\\02 - C#\\02 - C# POO\\01 - Aulas\\07 - Encapsulamento\\Aula07\\Aula07\\Aula07.csproj",
+      "projectUniqueName": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - Back-end\\02 - C#\\02 - C# POO\\01 - Aulas\\07 - Encapsulamento\\Aula07\\Aula07\\Aula07.csproj",
       "projectName": "Aula07",
-      "projectPath": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - C#\\02 - C#\\02 - C# POO\\01 - Aulas\\07 - Encapsulamento\\Aula07\\Aula07\\Aula07.csproj",
+      "projectPath": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - Back-end\\02 - C#\\02 - C# POO\\01 - Aulas\\07 - Encapsulamento\\Aula07\\Aula07\\Aula07.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - C#\\02 - C#\\02 - C# POO\\01 - Aulas\\07 - Encapsulamento\\Aula07\\Aula07\\obj\\",
+      "outputPath": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - Back-end\\02 - C#\\02 - C# POO\\01 - Aulas\\07 - Encapsulamento\\Aula07\\Aula07\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

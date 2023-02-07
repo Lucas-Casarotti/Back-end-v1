@@ -2356,28 +2356,36 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lucas\\.nuget\\packages\\": {}
+    "C:\\Users\\Lucas\\.nuget\\packages\\": {},
+    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - C#\\02 - C#\\03 - Acesso à dados com C#\\01 - Acesso a dados com ADO.NET\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - Back-end\\02 - C#\\03 - Acesso à dados com C#\\01 - Acesso a dados com ADO.NET\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - C#\\02 - C#\\03 - Acesso à dados com C#\\01 - Acesso a dados com ADO.NET\\DataAccess\\DataAccess.csproj",
+      "projectPath": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - Back-end\\02 - C#\\03 - Acesso à dados com C#\\01 - Acesso a dados com ADO.NET\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - C#\\02 - C#\\03 - Acesso à dados com C#\\01 - Acesso a dados com ADO.NET\\DataAccess\\obj\\",
+      "outputPath": "E:\\Usuários\\Lucas\\Área de Trabalho\\Estudo\\01 - Back-end\\02 - C#\\03 - Acesso à dados com C#\\01 - Acesso a dados com ADO.NET\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -2389,6 +2397,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.Data.SqlClient": {
             "target": "Package",
@@ -2410,7 +2419,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
       }
     }
   }
