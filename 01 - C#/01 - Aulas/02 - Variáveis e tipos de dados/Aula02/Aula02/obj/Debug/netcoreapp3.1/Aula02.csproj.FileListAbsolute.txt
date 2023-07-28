@@ -1,0 +1,42 @@
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.exe
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.deps.json
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.runtimeconfig.json
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.runtimeconfig.dev.json
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.dll
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.pdb
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.csproj.AssemblyReference.cache
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.AssemblyInfoInputs.cache
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.AssemblyInfo.cs
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.csproj.CoreCompileInputs.cache
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.dll
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.pdb
+C:\Users\casar\Desktop\Estudo C#\01 - C#\02 - Curso youtube\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.genruntimeconfig.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.exe
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.deps.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.runtimeconfig.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.runtimeconfig.dev.json
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.dll
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.pdb
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.csproj.AssemblyReference.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.AssemblyInfoInputs.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.AssemblyInfo.cs
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.csproj.CoreCompileInputs.cache
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.dll
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.pdb
+E:\CURSO .NET\01 - Estudo\01 - C#\01 - Aulas\02 - Variaveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.genruntimeconfig.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\01 - C#\01 - Aulas\02 - Variáveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.exe
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\01 - C#\01 - Aulas\02 - Variáveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.deps.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\01 - C#\01 - Aulas\02 - Variáveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\01 - C#\01 - Aulas\02 - Variáveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.runtimeconfig.dev.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\01 - C#\01 - Aulas\02 - Variáveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\01 - C#\01 - Aulas\02 - Variáveis e tipos de dados\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.pdb
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\01 - C#\01 - Aulas\02 - Variáveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\01 - C#\01 - Aulas\02 - Variáveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\01 - C#\01 - Aulas\02 - Variáveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.AssemblyInfoInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\01 - C#\01 - Aulas\02 - Variáveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.AssemblyInfo.cs
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\01 - C#\01 - Aulas\02 - Variáveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\01 - C#\01 - Aulas\02 - Variáveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\01 - C#\01 - Aulas\02 - Variáveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.pdb
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\01 - C#\01 - Aulas\02 - Variáveis e tipos de dados\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.genruntimeconfig.cache

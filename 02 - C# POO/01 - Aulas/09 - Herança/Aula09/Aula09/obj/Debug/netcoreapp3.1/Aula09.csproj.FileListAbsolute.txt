@@ -1,0 +1,14 @@
+E:\Usuários\Lucas\Área de Trabalho\New\09 - Herança\Aula09\Aula09\bin\Debug\netcoreapp3.1\Aula09.exe
+E:\Usuários\Lucas\Área de Trabalho\New\09 - Herança\Aula09\Aula09\bin\Debug\netcoreapp3.1\Aula09.deps.json
+E:\Usuários\Lucas\Área de Trabalho\New\09 - Herança\Aula09\Aula09\bin\Debug\netcoreapp3.1\Aula09.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\New\09 - Herança\Aula09\Aula09\bin\Debug\netcoreapp3.1\Aula09.runtimeconfig.dev.json
+E:\Usuários\Lucas\Área de Trabalho\New\09 - Herança\Aula09\Aula09\bin\Debug\netcoreapp3.1\Aula09.dll
+E:\Usuários\Lucas\Área de Trabalho\New\09 - Herança\Aula09\Aula09\bin\Debug\netcoreapp3.1\Aula09.pdb
+E:\Usuários\Lucas\Área de Trabalho\New\09 - Herança\Aula09\Aula09\obj\Debug\netcoreapp3.1\Aula09.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\New\09 - Herança\Aula09\Aula09\obj\Debug\netcoreapp3.1\Aula09.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Lucas\Área de Trabalho\New\09 - Herança\Aula09\Aula09\obj\Debug\netcoreapp3.1\Aula09.AssemblyInfoInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\New\09 - Herança\Aula09\Aula09\obj\Debug\netcoreapp3.1\Aula09.AssemblyInfo.cs
+E:\Usuários\Lucas\Área de Trabalho\New\09 - Herança\Aula09\Aula09\obj\Debug\netcoreapp3.1\Aula09.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\New\09 - Herança\Aula09\Aula09\obj\Debug\netcoreapp3.1\Aula09.dll
+E:\Usuários\Lucas\Área de Trabalho\New\09 - Herança\Aula09\Aula09\obj\Debug\netcoreapp3.1\Aula09.pdb
+E:\Usuários\Lucas\Área de Trabalho\New\09 - Herança\Aula09\Aula09\obj\Debug\netcoreapp3.1\Aula09.genruntimeconfig.cache

@@ -1,5 +1,0 @@
-E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\08 - Modificadores de acesso\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.csproj.AssemblyReference.cache
-E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\08 - Modificadores de acesso\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.GeneratedMSBuildEditorConfig.editorconfig
-E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\08 - Modificadores de acesso\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.AssemblyInfoInputs.cache
-E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\08 - Modificadores de acesso\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.AssemblyInfo.cs
-E:\Usuários\Lucas\Área de Trabalho\Estudo\01 - C#\02 - C#\02 - C# POO\01 - Aulas\08 - Modificadores de acesso\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.csproj.CoreCompileInputs.cache

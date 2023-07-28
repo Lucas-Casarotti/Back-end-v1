@@ -1,0 +1,14 @@
+E:\Usuários\Lucas\Área de Trabalho\New\16 - Comparando objetos com Equals\Aula16\Aula16\bin\Debug\netcoreapp3.1\Aula16.exe
+E:\Usuários\Lucas\Área de Trabalho\New\16 - Comparando objetos com Equals\Aula16\Aula16\bin\Debug\netcoreapp3.1\Aula16.deps.json
+E:\Usuários\Lucas\Área de Trabalho\New\16 - Comparando objetos com Equals\Aula16\Aula16\bin\Debug\netcoreapp3.1\Aula16.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\New\16 - Comparando objetos com Equals\Aula16\Aula16\bin\Debug\netcoreapp3.1\Aula16.runtimeconfig.dev.json
+E:\Usuários\Lucas\Área de Trabalho\New\16 - Comparando objetos com Equals\Aula16\Aula16\bin\Debug\netcoreapp3.1\Aula16.dll
+E:\Usuários\Lucas\Área de Trabalho\New\16 - Comparando objetos com Equals\Aula16\Aula16\bin\Debug\netcoreapp3.1\Aula16.pdb
+E:\Usuários\Lucas\Área de Trabalho\New\16 - Comparando objetos com Equals\Aula16\Aula16\obj\Debug\netcoreapp3.1\Aula16.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\New\16 - Comparando objetos com Equals\Aula16\Aula16\obj\Debug\netcoreapp3.1\Aula16.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Lucas\Área de Trabalho\New\16 - Comparando objetos com Equals\Aula16\Aula16\obj\Debug\netcoreapp3.1\Aula16.AssemblyInfoInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\New\16 - Comparando objetos com Equals\Aula16\Aula16\obj\Debug\netcoreapp3.1\Aula16.AssemblyInfo.cs
+E:\Usuários\Lucas\Área de Trabalho\New\16 - Comparando objetos com Equals\Aula16\Aula16\obj\Debug\netcoreapp3.1\Aula16.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\New\16 - Comparando objetos com Equals\Aula16\Aula16\obj\Debug\netcoreapp3.1\Aula16.dll
+E:\Usuários\Lucas\Área de Trabalho\New\16 - Comparando objetos com Equals\Aula16\Aula16\obj\Debug\netcoreapp3.1\Aula16.pdb
+E:\Usuários\Lucas\Área de Trabalho\New\16 - Comparando objetos com Equals\Aula16\Aula16\obj\Debug\netcoreapp3.1\Aula16.genruntimeconfig.cache

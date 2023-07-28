@@ -1,0 +1,14 @@
+E:\Usuários\Lucas\Área de Trabalho\New\13 - Classes estaticas\Aula13\Aula13\bin\Debug\netcoreapp3.1\Aula13.exe
+E:\Usuários\Lucas\Área de Trabalho\New\13 - Classes estaticas\Aula13\Aula13\bin\Debug\netcoreapp3.1\Aula13.deps.json
+E:\Usuários\Lucas\Área de Trabalho\New\13 - Classes estaticas\Aula13\Aula13\bin\Debug\netcoreapp3.1\Aula13.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\New\13 - Classes estaticas\Aula13\Aula13\bin\Debug\netcoreapp3.1\Aula13.runtimeconfig.dev.json
+E:\Usuários\Lucas\Área de Trabalho\New\13 - Classes estaticas\Aula13\Aula13\bin\Debug\netcoreapp3.1\Aula13.dll
+E:\Usuários\Lucas\Área de Trabalho\New\13 - Classes estaticas\Aula13\Aula13\bin\Debug\netcoreapp3.1\Aula13.pdb
+E:\Usuários\Lucas\Área de Trabalho\New\13 - Classes estaticas\Aula13\Aula13\obj\Debug\netcoreapp3.1\Aula13.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\New\13 - Classes estaticas\Aula13\Aula13\obj\Debug\netcoreapp3.1\Aula13.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Lucas\Área de Trabalho\New\13 - Classes estaticas\Aula13\Aula13\obj\Debug\netcoreapp3.1\Aula13.AssemblyInfoInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\New\13 - Classes estaticas\Aula13\Aula13\obj\Debug\netcoreapp3.1\Aula13.AssemblyInfo.cs
+E:\Usuários\Lucas\Área de Trabalho\New\13 - Classes estaticas\Aula13\Aula13\obj\Debug\netcoreapp3.1\Aula13.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\New\13 - Classes estaticas\Aula13\Aula13\obj\Debug\netcoreapp3.1\Aula13.dll
+E:\Usuários\Lucas\Área de Trabalho\New\13 - Classes estaticas\Aula13\Aula13\obj\Debug\netcoreapp3.1\Aula13.pdb
+E:\Usuários\Lucas\Área de Trabalho\New\13 - Classes estaticas\Aula13\Aula13\obj\Debug\netcoreapp3.1\Aula13.genruntimeconfig.cache

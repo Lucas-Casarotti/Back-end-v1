@@ -1,0 +1,14 @@
+E:\Usuários\Lucas\Área de Trabalho\New\11 - Abstracao\Aula11\Aula11\bin\Debug\netcoreapp3.1\Aula11.exe
+E:\Usuários\Lucas\Área de Trabalho\New\11 - Abstracao\Aula11\Aula11\bin\Debug\netcoreapp3.1\Aula11.deps.json
+E:\Usuários\Lucas\Área de Trabalho\New\11 - Abstracao\Aula11\Aula11\bin\Debug\netcoreapp3.1\Aula11.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\New\11 - Abstracao\Aula11\Aula11\bin\Debug\netcoreapp3.1\Aula11.runtimeconfig.dev.json
+E:\Usuários\Lucas\Área de Trabalho\New\11 - Abstracao\Aula11\Aula11\bin\Debug\netcoreapp3.1\Aula11.dll
+E:\Usuários\Lucas\Área de Trabalho\New\11 - Abstracao\Aula11\Aula11\bin\Debug\netcoreapp3.1\Aula11.pdb
+E:\Usuários\Lucas\Área de Trabalho\New\11 - Abstracao\Aula11\Aula11\obj\Debug\netcoreapp3.1\Aula11.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\New\11 - Abstracao\Aula11\Aula11\obj\Debug\netcoreapp3.1\Aula11.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Lucas\Área de Trabalho\New\11 - Abstracao\Aula11\Aula11\obj\Debug\netcoreapp3.1\Aula11.AssemblyInfoInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\New\11 - Abstracao\Aula11\Aula11\obj\Debug\netcoreapp3.1\Aula11.AssemblyInfo.cs
+E:\Usuários\Lucas\Área de Trabalho\New\11 - Abstracao\Aula11\Aula11\obj\Debug\netcoreapp3.1\Aula11.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\New\11 - Abstracao\Aula11\Aula11\obj\Debug\netcoreapp3.1\Aula11.dll
+E:\Usuários\Lucas\Área de Trabalho\New\11 - Abstracao\Aula11\Aula11\obj\Debug\netcoreapp3.1\Aula11.pdb
+E:\Usuários\Lucas\Área de Trabalho\New\11 - Abstracao\Aula11\Aula11\obj\Debug\netcoreapp3.1\Aula11.genruntimeconfig.cache

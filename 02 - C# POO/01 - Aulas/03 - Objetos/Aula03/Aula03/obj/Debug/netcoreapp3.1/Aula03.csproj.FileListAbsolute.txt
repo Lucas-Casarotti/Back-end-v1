@@ -1,0 +1,28 @@
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\03 - Métodos com return\Aula03\Aula03\bin\Debug\netcoreapp3.1\Aula03.exe
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\03 - Métodos com return\Aula03\Aula03\bin\Debug\netcoreapp3.1\Aula03.deps.json
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\03 - Métodos com return\Aula03\Aula03\bin\Debug\netcoreapp3.1\Aula03.runtimeconfig.json
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\03 - Métodos com return\Aula03\Aula03\bin\Debug\netcoreapp3.1\Aula03.runtimeconfig.dev.json
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\03 - Métodos com return\Aula03\Aula03\bin\Debug\netcoreapp3.1\Aula03.dll
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\03 - Métodos com return\Aula03\Aula03\bin\Debug\netcoreapp3.1\Aula03.pdb
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\03 - Métodos com return\Aula03\Aula03\obj\Debug\netcoreapp3.1\Aula03.csproj.AssemblyReference.cache
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\03 - Métodos com return\Aula03\Aula03\obj\Debug\netcoreapp3.1\Aula03.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\03 - Métodos com return\Aula03\Aula03\obj\Debug\netcoreapp3.1\Aula03.AssemblyInfoInputs.cache
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\03 - Métodos com return\Aula03\Aula03\obj\Debug\netcoreapp3.1\Aula03.AssemblyInfo.cs
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\03 - Métodos com return\Aula03\Aula03\obj\Debug\netcoreapp3.1\Aula03.csproj.CoreCompileInputs.cache
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\03 - Métodos com return\Aula03\Aula03\obj\Debug\netcoreapp3.1\Aula03.dll
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\03 - Métodos com return\Aula03\Aula03\obj\Debug\netcoreapp3.1\Aula03.pdb
+E:\CURSO .NET\01 - Estudo\02 - C# POO\01 - Aulas\03 - Métodos com return\Aula03\Aula03\obj\Debug\netcoreapp3.1\Aula03.genruntimeconfig.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\02 - C# POO\01 - Aulas\New\03 - Objetos\Aula03\Aula03\bin\Debug\netcoreapp3.1\Aula03.exe
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\02 - C# POO\01 - Aulas\New\03 - Objetos\Aula03\Aula03\bin\Debug\netcoreapp3.1\Aula03.deps.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\02 - C# POO\01 - Aulas\New\03 - Objetos\Aula03\Aula03\bin\Debug\netcoreapp3.1\Aula03.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\02 - C# POO\01 - Aulas\New\03 - Objetos\Aula03\Aula03\bin\Debug\netcoreapp3.1\Aula03.runtimeconfig.dev.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\02 - C# POO\01 - Aulas\New\03 - Objetos\Aula03\Aula03\bin\Debug\netcoreapp3.1\Aula03.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\02 - C# POO\01 - Aulas\New\03 - Objetos\Aula03\Aula03\bin\Debug\netcoreapp3.1\Aula03.pdb
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\02 - C# POO\01 - Aulas\New\03 - Objetos\Aula03\Aula03\obj\Debug\netcoreapp3.1\Aula03.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\02 - C# POO\01 - Aulas\New\03 - Objetos\Aula03\Aula03\obj\Debug\netcoreapp3.1\Aula03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\02 - C# POO\01 - Aulas\New\03 - Objetos\Aula03\Aula03\obj\Debug\netcoreapp3.1\Aula03.AssemblyInfoInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\02 - C# POO\01 - Aulas\New\03 - Objetos\Aula03\Aula03\obj\Debug\netcoreapp3.1\Aula03.AssemblyInfo.cs
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\02 - C# POO\01 - Aulas\New\03 - Objetos\Aula03\Aula03\obj\Debug\netcoreapp3.1\Aula03.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\02 - C# POO\01 - Aulas\New\03 - Objetos\Aula03\Aula03\obj\Debug\netcoreapp3.1\Aula03.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\02 - C# POO\01 - Aulas\New\03 - Objetos\Aula03\Aula03\obj\Debug\netcoreapp3.1\Aula03.pdb
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C#\02 - C# POO\01 - Aulas\New\03 - Objetos\Aula03\Aula03\obj\Debug\netcoreapp3.1\Aula03.genruntimeconfig.cache
