@@ -12,3 +12,17 @@ E:\Usuários\Lucas\Área de Trabalho\New\08 - This\Aula08\Aula08\obj\Debug\netco
 E:\Usuários\Lucas\Área de Trabalho\New\08 - This\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.dll
 E:\Usuários\Lucas\Área de Trabalho\New\08 - This\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.pdb
 E:\Usuários\Lucas\Área de Trabalho\New\08 - This\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.genruntimeconfig.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C# POO\01 - Aulas\08 - This\Aula08\Aula08\bin\Debug\netcoreapp3.1\Aula08.exe
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C# POO\01 - Aulas\08 - This\Aula08\Aula08\bin\Debug\netcoreapp3.1\Aula08.deps.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C# POO\01 - Aulas\08 - This\Aula08\Aula08\bin\Debug\netcoreapp3.1\Aula08.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C# POO\01 - Aulas\08 - This\Aula08\Aula08\bin\Debug\netcoreapp3.1\Aula08.runtimeconfig.dev.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C# POO\01 - Aulas\08 - This\Aula08\Aula08\bin\Debug\netcoreapp3.1\Aula08.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C# POO\01 - Aulas\08 - This\Aula08\Aula08\bin\Debug\netcoreapp3.1\Aula08.pdb
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C# POO\01 - Aulas\08 - This\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C# POO\01 - Aulas\08 - This\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C# POO\01 - Aulas\08 - This\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.AssemblyInfoInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C# POO\01 - Aulas\08 - This\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.AssemblyInfo.cs
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C# POO\01 - Aulas\08 - This\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C# POO\01 - Aulas\08 - This\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C# POO\01 - Aulas\08 - This\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.pdb
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\02 - C# POO\01 - Aulas\08 - This\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.genruntimeconfig.cache

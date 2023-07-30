@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Usuários\\Lucas\\Área de Trabalho\\New\\08 - This\\Aula08\\Aula08\\Aula08.csproj",
+      "projectUniqueName": "E:\\Usuários\\Lucas\\Área de Trabalho\\Back-end-v1\\02 - C# POO\\01 - Aulas\\08 - This\\Aula08\\Aula08\\Aula08.csproj",
       "projectName": "Aula08",
-      "projectPath": "E:\\Usuários\\Lucas\\Área de Trabalho\\New\\08 - This\\Aula08\\Aula08\\Aula08.csproj",
+      "projectPath": "E:\\Usuários\\Lucas\\Área de Trabalho\\Back-end-v1\\02 - C# POO\\01 - Aulas\\08 - This\\Aula08\\Aula08\\Aula08.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "E:\\Usuários\\Lucas\\Área de Trabalho\\New\\08 - This\\Aula08\\Aula08\\obj\\",
+      "outputPath": "E:\\Usuários\\Lucas\\Área de Trabalho\\Back-end-v1\\02 - C# POO\\01 - Aulas\\08 - This\\Aula08\\Aula08\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
